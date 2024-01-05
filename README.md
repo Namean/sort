@@ -11,5 +11,8 @@ Colons can be used to align columns.
 | True | 89. Separating Swapping and comparison |    $1 |
 | True | 90. The Big Reveal |    $1 |
 | False | 91. Interface Definition |    $1 |
-
+| True | 92. Sorting arbitrary collections | |
+| True | 93. Linked List Implementation |
+| True | 94. Completed Linked List Code |
+| False | 95. Just One More Fix |
 
