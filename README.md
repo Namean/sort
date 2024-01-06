@@ -16,7 +16,7 @@ Colons can be used to align columns.
 | True          | 94. Completed Linked List Code                 |               |
 | True          | 95. Just One More Fix                          |               |
 | True          | 96. Integrating the Sort Method                |               |
-| False         | 97. Issues with Inheritance                    |               |
+| True          | 97. Issues with Inheritance                    |               |
 | False         | 98. Abstract Classes                           |               |
 | False         | 99. Why Use Abstract Classes                   |               |
 | False         | 100. Solving All Issues with Abstract classes  |               |
